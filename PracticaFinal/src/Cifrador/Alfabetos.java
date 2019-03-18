@@ -12,9 +12,11 @@ public class Alfabetos {
 				+ "1234567890"
 				+ "¡!¿?-;,.: ";
 			
-	
+		String ingles = "abcdefghijklmnopqrstuvwxyz"
+				+ "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+				+ "1234567890"
+				+ "¡!¿?-;,.:' ";
 
-		
 		
 		
 				
