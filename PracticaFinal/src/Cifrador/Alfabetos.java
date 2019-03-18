@@ -6,17 +6,20 @@ public class Alfabetos {
 
 	public String obtenerAlfabeto(String idioma){
 		
-		String castellano = "abcdefghijklmn√±opqrstuvwxyz"
-				+ "ABCDEFGHIJKLMN√ëOPQRSTUVWXYZ"
-				+ "√°√Å√©√â√≠√ç√≥√ì√∫√ö√º√ú"
+		String castellano = "abcdefghijklmnÒopqrstuvwxyz"
+				+ "ABCDEFGHIJKLMN—OPQRSTUVWXYZ"
+				+ "·¡È…ÌÕÛ”˙⁄¸‹"
 				+ "1234567890"
-				+ "¬°!¬ø?-;,.: ";
+				+ "°!ø?-;,.: ";
 			
-	
+		String ingles = "abcdefghijklmnopqrstuvwxyz"
+				+ "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+				+ "1234567890"
+				+ "°!ø?-;,.:' ";
 
 		String frances ="abcdefghijklmnopqrstuvwxyz"
 					+ "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-					+"√°√Å√©√â√≠√ç√≥√ì√∫√ö√º√ú√®√à√™√ä√¢√Ç√ß√á"
+					+"·¡È…ÌÕÛ”˙⁄¸‹Ë»Í ‚¬Á«"
 					+ "1234567890"
 					+ "!?-;,.: ";
 		
