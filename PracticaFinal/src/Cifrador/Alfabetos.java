@@ -12,11 +12,6 @@ public class Alfabetos {
 				+ "1234567890"
 				+ "¡!¿?-;,.:' ";
 
-		String frances ="abcdefghijklmnopqrstuvwxyz"
-					+ "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-					+"áÁéÉíÍóÓúÚüÜèÈêÊâÂçÇ"
-					+ "1234567890"
-					+ "!?-;,.: ";
 		
 		
 				
