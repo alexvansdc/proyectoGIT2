@@ -6,13 +6,7 @@ public class Alfabetos {
 
 	public String obtenerAlfabeto(String idioma){
 		
-		String castellano = "abcdefghijklmnñopqrstuvwxyz"
-				+ "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ"
-				+ "áÁéÉíÍóÓúÚüÜ"
-				+ "1234567890"
-				+ "¡!¿?-;,.: ";
-			
-	
+
 		
 		
 				
