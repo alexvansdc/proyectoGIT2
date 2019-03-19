@@ -7,10 +7,7 @@ public class Alfabetos {
 	public String obtenerAlfabeto(String idioma){
 		
 		
-		String ingles = "abcdefghijklmnopqrstuvwxyz"
-				+ "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-				+ "1234567890"
-				+ "¡!¿?-;,.:' ";
+	
 
 		String frances ="abcdefghijklmnopqrstuvwxyz"
 					+ "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
