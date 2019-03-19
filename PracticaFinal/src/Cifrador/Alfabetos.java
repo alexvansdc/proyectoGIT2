@@ -5,15 +5,11 @@ public class Alfabetos {
 
 
 	public String obtenerAlfabeto(String idioma){
+		//asddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 		
-		
+
 	//dsfsfsdhfsdbjfsd
 
-		String frances ="abcdefghijklmnopqrstuvwxyz"
-					+ "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-					+"áÁéÉíÍóÓúÚüÜèÈêÊâÂçÇ"
-					+ "1234567890"
-					+ "!?-;,.: ";
 		
 		
 				
