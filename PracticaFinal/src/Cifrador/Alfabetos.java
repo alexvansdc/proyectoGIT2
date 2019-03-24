@@ -1,3 +1,4 @@
+
 package Cifrador;
 
 public class Alfabetos {
@@ -6,6 +7,7 @@ public class Alfabetos {
 
 	public String obtenerAlfabeto(String idioma){
 		
+
 		String castellano = "abcdefghijklmnñopqrstuvwxyz"
 				+ "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ"
 				+ "áÁéÉíÍóÓúÚüÜ"
@@ -13,6 +15,7 @@ public class Alfabetos {
 				+ "¡!¿?-;,.: ";
 			
 		
+
 
 		
 		
